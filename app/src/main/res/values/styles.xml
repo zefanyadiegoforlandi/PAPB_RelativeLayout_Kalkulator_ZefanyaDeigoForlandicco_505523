@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    angka  -->
+    <style name="b_button">
+        <item name="android:backgroundTint">#D26B6767</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+<!--    delete -->
+    <style name="b_delete">
+        <item name="android:backgroundTint">#EA1505</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+<!--        new&hasil  -->
+    <style name="b_khusus">
+        <item name="android:backgroundTint">#EA1505</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+<!--    tanda operasi  -->
+    <style name="b_operasimtk">
+        <item name="android:backgroundTint">#FF9800</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>
